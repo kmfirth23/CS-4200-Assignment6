@@ -5,4 +5,4 @@ Author: Kennedy Firth
 
 Source Code: [Assignment6.c](Assignment6.c)
 
-Report: [Assignment6.pdf](Assignmen6.pdf)
+Report: [Assignment6.pdf](Assignment6.pdf)
